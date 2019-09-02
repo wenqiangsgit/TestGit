@@ -1,2 +1,2 @@
-git is VersionController
+git is version control syatem
 wq use
